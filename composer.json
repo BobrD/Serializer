@@ -1,0 +1,21 @@
+{
+    "name": "bobrd/serializer",
+    "authors": [
+        {
+            "name": "BobrD",
+            "email": "eugene.bober@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BobrD\\Serializer\\": "src/",
+            "BobrD\\Serializer\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "doctrine/annotations": "^1.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    }
+}
