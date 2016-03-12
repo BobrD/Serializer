@@ -1,0 +1,4 @@
+Serializer
+==========
+
+Metadata base serializer.
